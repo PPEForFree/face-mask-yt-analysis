@@ -1,0 +1,1566 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OzY-m45CNTnV8yCaF_rseOod-cU\"",
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 21
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/MztQ5ZrgiQmSxE0nJEtVymgL6rY\"",
+      "id": "pzDwTHxpSi0",
+      "snippet": {
+        "publishedAt": "2020-04-24T18:11:35.000Z",
+        "channelId": "UCLnL-RfWmIR7K37enFVlw6w",
+        "title": "HOPE MAKES FACE MASKS!!!",
+        "description": "If interested in purchasing a mask and filters please reach out to Hope at fantasticfacemasks@gmail.com (only taking orders for those living in the United States). \n...\nWe are a family of 8, with one happy golden retriever, in a 2 bedroom home learning to embrace the joyful chaos of life. We are raising free range, holistic living, home school kids who love adventures and having fun #LomelinoClan\n\n\nFollow us on Instagram! ~ @lomelinofamily\n\nLike us on Facebook! ~ @lomelinofamily\n\nTo use this video please email us at lomelinoclan@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pzDwTHxpSi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pzDwTHxpSi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pzDwTHxpSi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pzDwTHxpSi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pzDwTHxpSi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lomelino Family",
+        "tags": [
+          "the lomelino family",
+          "the lomelinos",
+          "the lomelino clan",
+          "jojo lomelino",
+          "kids channel",
+          "family channel",
+          "funny kids",
+          "cute kids",
+          "christian family"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HOPE MAKES FACE MASKS!!!",
+          "description": "If interested in purchasing a mask and filters please reach out to Hope at fantasticfacemasks@gmail.com (only taking orders for those living in the United States). \n...\nWe are a family of 8, with one happy golden retriever, in a 2 bedroom home learning to embrace the joyful chaos of life. We are raising free range, holistic living, home school kids who love adventures and having fun #LomelinoClan\n\n\nFollow us on Instagram! ~ @lomelinofamily\n\nLike us on Facebook! ~ @lomelinofamily\n\nTo use this video please email us at lomelinoclan@gmail.com"
+        }
+      },
+      "statistics": {
+        "viewCount": "464",
+        "likeCount": "87",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/0kt51",
+          "/m/019_rr",
+          "/m/0kt51"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Health"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/j--LXuW7rEQgKJH7e0F9peMTUrE\"",
+      "id": "9Nte6dZ7hkA",
+      "snippet": {
+        "publishedAt": "2020-03-21T15:39:23.000Z",
+        "channelId": "UCcy3K98yeMXSHeIq99FXpoA",
+        "title": "How to make a face mask quick",
+        "description": "****Disclosure: This video does not include any medical advice or tip about the recent COVID-19 virus. It only has the pattern and tutorial for how to make face masks in bulk for donations.*****\n\nIf you want to learn more about sewing or find sewing patterns go to our site: https://www.mygoldenthimble.com/ \n\nThere is no more denying it. The virus is here and we are needed.\n\nI am making this video because I was asked by my hubby's hospital to make face masks to donate as they have none at the moment and they really need them.\n\nAs they need A LOT OF FACE MASKS and probably others will need more I am showing you the way I am doing it to save time and make more in a more effective way.\n\nWe as seamstresses have joined in the past to help our community and today shouldn't be any different.\n\nThe reason I am not indicating any specific material (other than saying that I used non-woven and that is why I am not finishing seams here) it is because I am no authority or have any expertise on the subject and I don't want to promote misinformation.\n\nIf you want to donate your skills and make facemasks for your local hospitals reach out to them and ask them what is the best material to make them from. They know better.\n\nPlease share this video so we can find more seamstresses whiling to donate their time and skills to our doctors, nurses and sick people who need them.\n\nThank you so much. Please stay safe, stay at home.\nMy Golden Thimble",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Nte6dZ7hkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Nte6dZ7hkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Nte6dZ7hkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Nte6dZ7hkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Nte6dZ7hkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "My Golden Thimble",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to make a face mask quick",
+          "description": "****Disclosure: This video does not include any medical advice or tip about the recent COVID-19 virus. It only has the pattern and tutorial for how to make face masks in bulk for donations.*****\n\nIf you want to learn more about sewing or find sewing patterns go to our site: https://www.mygoldenthimble.com/ \n\nThere is no more denying it. The virus is here and we are needed.\n\nI am making this video because I was asked by my hubby's hospital to make face masks to donate as they have none at the moment and they really need them.\n\nAs they need A LOT OF FACE MASKS and probably others will need more I am showing you the way I am doing it to save time and make more in a more effective way.\n\nWe as seamstresses have joined in the past to help our community and today shouldn't be any different.\n\nThe reason I am not indicating any specific material (other than saying that I used non-woven and that is why I am not finishing seams here) it is because I am no authority or have any expertise on the subject and I don't want to promote misinformation.\n\nIf you want to donate your skills and make facemasks for your local hospitals reach out to them and ask them what is the best material to make them from. They know better.\n\nPlease share this video so we can find more seamstresses whiling to donate their time and skills to our doctors, nurses and sick people who need them.\n\nThank you so much. Please stay safe, stay at home.\nMy Golden Thimble"
+        }
+      },
+      "statistics": {
+        "viewCount": "517",
+        "likeCount": "3",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/pCeHIbYbeQEJpsbFNaETIrGdWQY\"",
+      "id": "GkOPUVr0yjc",
+      "snippet": {
+        "publishedAt": "2020-03-23T09:45:48.000Z",
+        "channelId": "UCa7TaZw4eftDYFgA8iUaRiQ",
+        "title": "DIY face mask || Home made face mask || Disposable face mask || flavour's shore",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GkOPUVr0yjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GkOPUVr0yjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GkOPUVr0yjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GkOPUVr0yjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GkOPUVr0yjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Flavour's Shore",
+        "tags": [
+          "corona virus",
+          "covid 19",
+          "corona home made face mask",
+          "corona virus latest updates",
+          "corona virus latest news",
+          "covid 19 face mask",
+          "easy homemade face mask for corona virus",
+          "dust mask",
+          "face mask for corona virus",
+          "DIY face mask",
+          "DIY mask",
+          "corona virus india",
+          "coronavirus latest updates",
+          "corona virus mask",
+          "homemade mask",
+          "handkerchief face mask"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DIY face mask || Home made face mask || Disposable face mask || flavour's shore",
+          "description": ""
+        }
+      },
+      "statistics": {
+        "viewCount": "423",
+        "likeCount": "14",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "22"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ohRImnIBJJihYi41EYQgauiOqLc\"",
+      "id": "FhZC-Hf1IVo",
+      "snippet": {
+        "publishedAt": "2020-04-26T03:53:21.000Z",
+        "channelId": "UChfdE1PmRHTLwKd9uF5AWEA",
+        "title": "How To Make A Face Mask Out Of Bandana ( please share)",
+        "description": "This quick video just to share with you how to fold a Bandana to make a face mask. Also using coffee filter  or tissue paper for filter substitute. As always, we wish you all the best of health, Stay Safe and Stay Home !!!!\nThank you for watching",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhZC-Hf1IVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhZC-Hf1IVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhZC-Hf1IVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FhZC-Hf1IVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FhZC-Hf1IVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Twins Day",
+        "tags": [
+          "homemade bandana",
+          "bandana face mask",
+          "how to make face mask from a bandana",
+          "bandana face mask with hair ties-ponytail holders",
+          "quick and easy bandana face mask",
+          "bandana face mask tutorial -no sew DIY",
+          "how to turn a bandana into a face mask",
+          "bandana face mask using tissue paper and coffee filter",
+          "make a bandana face mask under 3 minutes",
+          "diy fabric face mask",
+          "dollar tree DIY face mask- easy- no sew",
+          "no sew face mask",
+          "diy no sew face mask easy for everyone"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How To Make A Face Mask Out Of Bandana ( please share)",
+          "description": "This quick video just to share with you how to fold a Bandana to make a face mask. Also using coffee filter  or tissue paper for filter substitute. As always, we wish you all the best of health, Stay Safe and Stay Home !!!!\nThank you for watching"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "603",
+        "likeCount": "53",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "53"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/4mNCIxXQQAjje9GvG8SgGNI2Px8\"",
+      "id": "cdVz-Rhq_lw",
+      "snippet": {
+        "publishedAt": "2020-04-24T01:50:06.000Z",
+        "channelId": "UCCpVh94LBsADdEuxzh7kySQ",
+        "title": "How to make  face mask at home | episode 001",
+        "description": "How to Make Face Mask at Home \nUseful Face Mask \nFace Mask Ideas\nIn this video I show you how to make a face mask.\n\n\nDon't forget to like, comment and share! \n                    Subscribe and hit the bell icon!\n\nOur Channel\nhttps://www.youtube.com/channel/UCCpVh94LBsADdEuxzh7kySQ?view_as=subscriber\nhttps://www.instagram.com/siriknows_/\n\nAsiri Thennakoon \nhttps://www.facebook.com/profile.php?id=100009379401100\nEdited by Tharindu Rajapaksha \nhttps://www.facebook.com/profile.php?id=100006319128320",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdVz-Rhq_lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdVz-Rhq_lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdVz-Rhq_lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdVz-Rhq_lw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SiriKnows",
+        "tags": [
+          "face mask",
+          "mask",
+          "corona",
+          "covid-19",
+          "safety",
+          "hacks",
+          "life hacks",
+          "easy tricks",
+          "how to made",
+          "at home",
+          "clothes",
+          "safety tips",
+          "be safe",
+          "wear everyday"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to make  face mask at home | episode 001",
+          "description": "How to Make Face Mask at Home \nUseful Face Mask \nFace Mask Ideas\nIn this video I show you how to make a face mask.\n\n\nDon't forget to like, comment and share! \n                    Subscribe and hit the bell icon!\n\nOur Channel\nhttps://www.youtube.com/channel/UCCpVh94LBsADdEuxzh7kySQ?view_as=subscriber\nhttps://www.instagram.com/siriknows_/\n\nAsiri Thennakoon \nhttps://www.facebook.com/profile.php?id=100009379401100\nEdited by Tharindu Rajapaksha \nhttps://www.facebook.com/profile.php?id=100006319128320"
+        }
+      },
+      "statistics": {
+        "viewCount": "479",
+        "likeCount": "63",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bkFndZ4py8HRO0AKcg-87eGOF0g\"",
+      "id": "8eXTcaSS3Gc",
+      "snippet": {
+        "publishedAt": "2020-03-15T11:05:20.000Z",
+        "channelId": "UCdoV7gd0tHhuVxacLGEJkmA",
+        "title": "How To Make Mask At Home 😷 Best Way Make Face Mask Easily | DIY | DIY Mask | Handmade Mask",
+        "description": "Make Your Own Colorful Coronavirus (Covid-19) Masks At Home.\n\nCoronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).\n\nCoronavirus disease (COVID-19) is a new strain that was discovered in 2019 and has not been previously identified in humans.\n\n\nＬＩＫＥ | ＣＯＭＭＥＮＴ | ＳＨＡＲＥ | ＳＵＢＳＣＲＩＢＥ\r\n\r\n== = = = = == = = = = = = = == = = = = = == \r\n★★ Please like and subscribe ★★\r\nhttps://www.youtube.com/channel/UCdoV7gd0tHhuVxacLGEJkmA?sub_confirmation=1\r\n\r\n★★=== = = = = = = = ==★★ \r\n\r\nContact us for any enquiries :\r\ncookingcraftsmail@gmail.com\r\nwww.facebook.com/cookingcraftbd\r\n\r\n★★=== = = = = = = = ==★★ \r\n★★=== = = = = = = = ==★★ \r\n\r\n#coronavirus\n#mask\n#surgicalfacemask \n#facemask \n#Howto\n === = = = = = = = == = = = == = = = == = = \r\nMUSIC :\r\nDancing on Green Grass",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8eXTcaSS3Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8eXTcaSS3Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8eXTcaSS3Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8eXTcaSS3Gc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8eXTcaSS3Gc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cooking Crafts",
+        "tags": [
+          "Cooking Crafts",
+          "cookingcrafts",
+          "mask",
+          "cosplay",
+          "mask making tutorial",
+          "mask making",
+          "Dust mask",
+          "n95 mask",
+          "homemade mask",
+          "covid mask",
+          "mask diy",
+          "face mask",
+          "diy face mask",
+          "how to make a mask",
+          "make mask",
+          "how to make mask at home",
+          "how to make face mask",
+          "mask making from cloth bag",
+          "diy mask",
+          "diy",
+          "diy mask making",
+          "diy face mask making",
+          "diy surgical face mask",
+          "surgical mask",
+          "handmade mask making",
+          "handmade mask",
+          "handmade mask for face",
+          "cloth mask making",
+          "cloth mask for face"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How To Make Mask At Home 😷 Best Way Make Face Mask Easily | DIY | DIY Mask | Handmade Mask",
+          "description": "Make Your Own Colorful Coronavirus (Covid-19) Masks At Home.\n\nCoronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).\n\nCoronavirus disease (COVID-19) is a new strain that was discovered in 2019 and has not been previously identified in humans.\n\n\nＬＩＫＥ | ＣＯＭＭＥＮＴ | ＳＨＡＲＥ | ＳＵＢＳＣＲＩＢＥ\r\n\r\n== = = = = == = = = = = = = == = = = = = == \r\n★★ Please like and subscribe ★★\r\nhttps://www.youtube.com/channel/UCdoV7gd0tHhuVxacLGEJkmA?sub_confirmation=1\r\n\r\n★★=== = = = = = = = ==★★ \r\n\r\nContact us for any enquiries :\r\ncookingcraftsmail@gmail.com\r\nwww.facebook.com/cookingcraftbd\r\n\r\n★★=== = = = = = = = ==★★ \r\n★★=== = = = = = = = ==★★ \r\n\r\n#coronavirus\n#mask\n#surgicalfacemask \n#facemask \n#Howto\n === = = = = = = = == = = = == = = = == = = \r\nMUSIC :\r\nDancing on Green Grass"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "statistics": {
+        "viewCount": "443",
+        "likeCount": "13",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/KXSxXSe3gO0d7Apd3d3dlAhK0wA\"",
+      "id": "rZDIuZuNTYU",
+      "snippet": {
+        "publishedAt": "2020-04-23T09:39:18.000Z",
+        "channelId": "UCQo6r8LxWD3Mej5_OpFMlLQ",
+        "title": "easy to make face mask at home\\diy face mask with cotton cloth",
+        "description": "hey guys in this video we show you how to make a face mask at home | handmade face mask idea | diy face mask\n\nfollow us on instagram and on facebook for latest updates.\n\ndo like share and subscribe.\n\n#facemask #homemadefacemask",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rZDIuZuNTYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rZDIuZuNTYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rZDIuZuNTYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rZDIuZuNTYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rZDIuZuNTYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "crafteholic",
+        "tags": [
+          "face mask",
+          "face mask tutorial",
+          "face mask ideas",
+          "homemade face mask",
+          "homemade face mask ideas",
+          "homemade face mask tutorial",
+          "how to make a face mask",
+          "how to make a face mask at home",
+          "diy face mask",
+          "diy face mask ideas",
+          "handmade face mask",
+          "handmade face mask ideas",
+          "how to make face mask",
+          "how to sew a face mask",
+          "washable face mask",
+          "handmade no sew face mask tutorial",
+          "how to make face mask at home",
+          "how to make mask",
+          "diy mask",
+          "washable mask",
+          "how to make mask at home"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "easy to make face mask at home\\diy face mask with cotton cloth",
+          "description": "hey guys in this video we show you how to make a face mask at home | handmade face mask idea | diy face mask\n\nfollow us on instagram and on facebook for latest updates.\n\ndo like share and subscribe.\n\n#facemask #homemadefacemask"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "390",
+        "likeCount": "31",
+        "dislikeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/2pagoA8ZllPmSae8GBIf2KoMUfo\"",
+      "id": "8JJylhaGtZ8",
+      "snippet": {
+        "publishedAt": "2020-04-24T12:02:48.000Z",
+        "channelId": "UCUTeE-as508hixQrNVHO7vQ",
+        "title": "Wearing of face masks made mandatory in Accra to stop COVID-19 spread | Citi Newsroom",
+        "description": "As part of measures to curb the spread of the Coronavirus (COVID-19) disease in the country, wearing of face masks in public places has been made mandatory within the Greater Accra Region.\n\nThis is according to a directive issued by the Greater Accra Regional Coordinating Council.\n\n#CitiNewsroom #Coronavirus #Ghana \n\nFollow us:\r\n\r\nFacebook: https://www.facebook.com/pg/CitiTVGH/\r\nTwitter: https://twitter.com/CitiTVGH\r\nInstagram: https://www.instagram.com/cititvgh/\r\nWebsite: http://cititvonline.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8JJylhaGtZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8JJylhaGtZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8JJylhaGtZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8JJylhaGtZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8JJylhaGtZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CitiTube",
+        "tags": [
+          "CitiTube",
+          "CitiTube Ghana",
+          "Citi TV",
+          "Citi TV Ghana",
+          "Citi TV Live",
+          "Ghana",
+          "Ghana News"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Wearing of face masks made mandatory in Accra to stop COVID-19 spread | Citi Newsroom",
+          "description": "As part of measures to curb the spread of the Coronavirus (COVID-19) disease in the country, wearing of face masks in public places has been made mandatory within the Greater Accra Region.\n\nThis is according to a directive issued by the Greater Accra Regional Coordinating Council.\n\n#CitiNewsroom #Coronavirus #Ghana \n\nFollow us:\r\n\r\nFacebook: https://www.facebook.com/pg/CitiTVGH/\r\nTwitter: https://twitter.com/CitiTVGH\r\nInstagram: https://www.instagram.com/cititvgh/\r\nWebsite: http://cititvonline.com/"
+        }
+      },
+      "statistics": {
+        "viewCount": "529",
+        "likeCount": "3",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/098wr",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/OR0r-Jl21nkEnBTdCAoCX0ZPF1c\"",
+      "id": "b6yh7iZv03Y",
+      "snippet": {
+        "publishedAt": "2020-04-25T10:10:34.000Z",
+        "channelId": "UCG4AARr1FWjYCkBHYkd0Odg",
+        "title": "Make face mask at Home | 如何在家製作面膜 | Make Fabric Face Mask at home | DIY Face Mask No Sewing Machine",
+        "description": "#makefacemask, #fabricfacemask, #nomachine, #facemaskpattern,\nMake face mask at Home,\njaeal qunae alwajh fi almanzil,\nZàijiā zhìzuò kǒuzhào,\nGharē mukhōśa tairi karuna,\nMachen Sie Gesichtsmaske zu Hause,\nYenza imaski yobuso ekhaya,\nNapravete maska za litse u doma,\nFer mascareta facial a casa,\nNapravite masku za lice kod kuće,\nBëni maskë për fytyrën në shtëpi,\nZrabicie masku dlia asoby doma,\nLav ansigtsmaske derhjemme,\n\n\n(*_*)To further motivate me to release more videos then subscribe \"wifiart & craft\" support channel here: https://www.youtube.com/channel/UCG4AARr1FWjYCkBHYkd0Odg = thank you!\n\neasy sew face mask, face mask pattern, how to make face mask cloth, face mask sewing tutorial, face mask no sewing machine, how to sew a face mask, sewing a face mask, how to make face mask, make face mask fabric, making face mask at home, cloth face mask, homemade face mask, diy cloth face mask, fabric face mask diy,Awesome Face Mask Ideas at Home, How to Make Face Mask, Useful Face Mask Diy,how to make a mask, non-surgical protective masks, cotton mask, pleated cotton mask, denim mask, tips & tricks, how to make fabric ties, elastic makes my ears hurt, scrub sewing patterns, cover up, fabric masks,printable pattern for face mask, printable pattern face mask, reversible face mask, how to make fabric mask at home, how to sew mask for face, how to sew face mask at home easy, how to make fabric mask, diy fabric face mask easy, cloth face mask diy, cloth mask making easy, fabric mask tutorial, diy fabric face mask, fabric mask diy, how to sew face mask pattern, how to sew mask at home, cloth mask making ideas, fabric mask how to make, cloth mask making at home, fabric mask",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b6yh7iZv03Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b6yh7iZv03Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6yh7iZv03Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b6yh7iZv03Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b6yh7iZv03Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wifiart & Craft",
+        "tags": [
+          "Make face mask at Home",
+          "jaeal qunae alwajh fi almanzil",
+          "Zàijiā zhìzuò kǒuzhào",
+          "Gharē mukhōśa tairi karuna",
+          "Machen Sie Gesichtsmaske zu Hause",
+          "Yenza imaski yobuso ekhaya",
+          "Napravete maska za litse u doma",
+          "Fer mascareta facial a casa",
+          "Bëni maskë për fytyrën në shtëpi",
+          "Napravite masku za lice kod kuće",
+          "Zrabicie masku dlia asoby doma",
+          "Awesome Face Mask Ideas at Home",
+          "face mask pattern",
+          "how to make face mask cloth",
+          "face mask sewing tutorial"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Make face mask at Home | 如何在家製作面膜 | Make Fabric Face Mask at home | DIY Face Mask No Sewing Machine",
+          "description": "#makefacemask, #fabricfacemask, #nomachine, #facemaskpattern,\nMake face mask at Home,\njaeal qunae alwajh fi almanzil,\nZàijiā zhìzuò kǒuzhào,\nGharē mukhōśa tairi karuna,\nMachen Sie Gesichtsmaske zu Hause,\nYenza imaski yobuso ekhaya,\nNapravete maska za litse u doma,\nFer mascareta facial a casa,\nNapravite masku za lice kod kuće,\nBëni maskë për fytyrën në shtëpi,\nZrabicie masku dlia asoby doma,\nLav ansigtsmaske derhjemme,\n\n\n(*_*)To further motivate me to release more videos then subscribe \"wifiart & craft\" support channel here: https://www.youtube.com/channel/UCG4AARr1FWjYCkBHYkd0Odg = thank you!\n\neasy sew face mask, face mask pattern, how to make face mask cloth, face mask sewing tutorial, face mask no sewing machine, how to sew a face mask, sewing a face mask, how to make face mask, make face mask fabric, making face mask at home, cloth face mask, homemade face mask, diy cloth face mask, fabric face mask diy,Awesome Face Mask Ideas at Home, How to Make Face Mask, Useful Face Mask Diy,how to make a mask, non-surgical protective masks, cotton mask, pleated cotton mask, denim mask, tips & tricks, how to make fabric ties, elastic makes my ears hurt, scrub sewing patterns, cover up, fabric masks,printable pattern for face mask, printable pattern face mask, reversible face mask, how to make fabric mask at home, how to sew mask for face, how to sew face mask at home easy, how to make fabric mask, diy fabric face mask easy, cloth face mask diy, cloth mask making easy, fabric mask tutorial, diy fabric face mask, fabric mask diy, how to sew face mask pattern, how to sew mask at home, cloth mask making ideas, fabric mask how to make, cloth mask making at home, fabric mask"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "322",
+        "likeCount": "21",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CQ9iXHMeNQ-3dMX1d46aM5GhELg\"",
+      "id": "AQq9_sBjnFs",
+      "snippet": {
+        "publishedAt": "2020-04-26T04:47:24.000Z",
+        "channelId": "UCKSeCf8bzv8YUZ6okwZfWKQ",
+        "title": "How to make a Face Mask at Home| DIY face mask no sewing machine | ऐसे बनाएं फेस मास्क | Beads art",
+        "description": "#makefacemask, #fabricfacemask, #Beadsart, #vineetamishra #फेसमास्क\nHow to make a Face Mask at Home Easy. I have made a fabric face mask video tutorial. In this simple face mask sewing video, I have included the detail on how to cut and sew a face mask step by step no sewing machine needed.\n\nSUBSCRIBE for new videos :-\n https://www.youtube.com/channel/UCKSe...\n…………………………………………………………………\nFor business inquiries - vinimsr1981@gmail.com\n…………………………………………………………………\n\n connect with us :-\n\n☆ twitter        - https://twitter.com/Beadedart\n☆ google +    - https://plus.google.com/u/0/b/1176040...\n☆ blogger      - http://beadsartandcrafts.blogspot.in/...\n………………………………………………………………………………\n\n? Others video :-\n1 DIY piano pen holder and chair with pop sticks - https://youtu.be/Eyv_TLhQTJM\n2 Photo Frame tutoria - https://youtu.be/F26kqjPw7wM\n3 How to make rose flower - https://youtu.be/8JNWckMdFVE\n4 How to make miniature doll slipper  - https://youtu.be/MGyWAlSdpiY\n5 How to make mini bag keychain - https://youtu.be/QToLcaE5PNk\n………………………………………………………………………………\n\nAUDIO DISCLAIMER/CREDITS – No Copyright sound(https://www.youtube.com/user/NoCopyri...\n\nThanks for watching\n☆ please like | share | comment\n………………………………………………………………………………\n with Love  \n vineeta mishra",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AQq9_sBjnFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AQq9_sBjnFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AQq9_sBjnFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AQq9_sBjnFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AQq9_sBjnFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Beads Art",
+        "tags": [
+          "easy sew face mask",
+          "face mask pattern",
+          "how to make face mask cloth",
+          "face mask sewing tutorial",
+          "face mask no sewing machine",
+          "how to sew a face mask",
+          "sewing a face mask",
+          "how to make face mask",
+          "make face mask fabric",
+          "making face mask at home",
+          "cloth face mask",
+          "homemade face mask",
+          "diy cloth face mask",
+          "fabric face mask diy",
+          "Beads art",
+          "फेस मास्क"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to make a Face Mask at Home| DIY face mask no sewing machine | ऐसे बनाएं फेस मास्क | Beads art",
+          "description": "#makefacemask, #fabricfacemask, #Beadsart, #vineetamishra #फेसमास्क\nHow to make a Face Mask at Home Easy. I have made a fabric face mask video tutorial. In this simple face mask sewing video, I have included the detail on how to cut and sew a face mask step by step no sewing machine needed.\n\nSUBSCRIBE for new videos :-\n https://www.youtube.com/channel/UCKSe...\n…………………………………………………………………\nFor business inquiries - vinimsr1981@gmail.com\n…………………………………………………………………\n\n connect with us :-\n\n☆ twitter        - https://twitter.com/Beadedart\n☆ google +    - https://plus.google.com/u/0/b/1176040...\n☆ blogger      - http://beadsartandcrafts.blogspot.in/...\n………………………………………………………………………………\n\n? Others video :-\n1 DIY piano pen holder and chair with pop sticks - https://youtu.be/Eyv_TLhQTJM\n2 Photo Frame tutoria - https://youtu.be/F26kqjPw7wM\n3 How to make rose flower - https://youtu.be/8JNWckMdFVE\n4 How to make miniature doll slipper  - https://youtu.be/MGyWAlSdpiY\n5 How to make mini bag keychain - https://youtu.be/QToLcaE5PNk\n………………………………………………………………………………\n\nAUDIO DISCLAIMER/CREDITS – No Copyright sound(https://www.youtube.com/user/NoCopyri...\n\nThanks for watching\n☆ please like | share | comment\n………………………………………………………………………………\n with Love  \n vineeta mishra"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "276",
+        "likeCount": "26",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YZ0-gKG_a6WnQNSWYT4PHjD8AIc\"",
+      "id": "PhrnT1ARZaM",
+      "snippet": {
+        "publishedAt": "2020-04-26T10:47:25.000Z",
+        "channelId": "UC058YjCQavx6RiS7R8JFv7A",
+        "title": "DIY COMO HACER MÁSCARA PROTECTORA》 HOW TO MAKE FACE MASK",
+        "description": "#diyfacemask #facemask #sewamask #origami #flower #make \nWelcome to my channel ! ! ! \nPlease SUBSCRIBE to my channel.\nDIY home DECOR\nDIY paper wall hanging\nDIY paper flower craft ideas",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PhrnT1ARZaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PhrnT1ARZaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PhrnT1ARZaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PhrnT1ARZaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "DIY CRAFT",
+        "tags": [
+          "DIY face mask",
+          "HACER MÁSCARA PROTECTORA",
+          "Face mask tutorial",
+          "Sew a mask",
+          "Pattern medical mask",
+          "Pattern face mask",
+          "Face mask",
+          "Маска для лица своими руками",
+          "Маска из ткани",
+          "Маска выкройка",
+          "Защитная маска для лица",
+          "Маска",
+          "COMO HACER MÁSCARA PROTECTORA/ HOW TO MAKE FACE MASK",
+          "Máscara sem costura e sem elástico",
+          "Easy Mask With Filter Pocket",
+          "Making a face mask at home"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DIY COMO HACER MÁSCARA PROTECTORA》 HOW TO MAKE FACE MASK",
+          "description": "#diyfacemask #facemask #sewamask #origami #flower #make \nWelcome to my channel ! ! ! \nPlease SUBSCRIBE to my channel.\nDIY home DECOR\nDIY paper wall hanging\nDIY paper flower craft ideas"
+        }
+      },
+      "statistics": {
+        "viewCount": "344",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/K9ePTp1uagvM-d0U2cOiJ031TXY\"",
+      "id": "4feAhdTDKac",
+      "snippet": {
+        "publishedAt": "2020-04-20T22:25:14.000Z",
+        "channelId": "UCyRvjnhiC0MOXWS-7COPtyQ",
+        "title": "Locally made face masks to hit the market this Wednesday",
+        "description": "#RBANews #RBAAmakuru #Rwanda #RBAHafiYawe\n\nAcross section of the citizens are calling for the speedy manufacturing of the face masks so that they can keep fighting covid 19. Manufacturers say that by Wednesday the market space will be full of locally made face masks.\nRwanda TV’s Fiona Mbabazi reports \n\nSUBSCRIBE to our YouTube channel for more great videos: https://www.youtube.com/user/RwandanTV\nFollow us on Twitter: \n  https://twitter.com/rbarwanda \n  https://twitter.com/RwandaTV\n\nFollow us on IG:\n https://www.instagram.com/rba.rwanda/\n\nLike us on Facebook: https://www.facebook.com/rwandatvofficial\n\nFor more great content go to https://www.rba.co.rw and download our apps:\n Android : https://play.google.com/store/apps/details?id=rba.pack\n iOS         :      https://apps.apple.com/app/app-name/id1274263322",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4feAhdTDKac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4feAhdTDKac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4feAhdTDKac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4feAhdTDKac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "RwandaTV",
+        "tags": [
+          "Rwanda",
+          "VisitRwanda",
+          "RwandaTV"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Locally made face masks to hit the market this Wednesday",
+          "description": "#RBANews #RBAAmakuru #Rwanda #RBAHafiYawe\n\nAcross section of the citizens are calling for the speedy manufacturing of the face masks so that they can keep fighting covid 19. Manufacturers say that by Wednesday the market space will be full of locally made face masks.\nRwanda TV’s Fiona Mbabazi reports \n\nSUBSCRIBE to our YouTube channel for more great videos: https://www.youtube.com/user/RwandanTV\nFollow us on Twitter: \n  https://twitter.com/rbarwanda \n  https://twitter.com/RwandaTV\n\nFollow us on IG:\n https://www.instagram.com/rba.rwanda/\n\nLike us on Facebook: https://www.facebook.com/rwandatvofficial\n\nFor more great content go to https://www.rba.co.rw and download our apps:\n Android : https://play.google.com/store/apps/details?id=rba.pack\n iOS         :      https://apps.apple.com/app/app-name/id1274263322"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "187",
+        "likeCount": "1",
+        "dislikeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/098wr",
+          "/m/098wr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/SVELXx4paxbibstt9qRTijftRb4\"",
+      "id": "OA3q3KpTe5I",
+      "snippet": {
+        "publishedAt": "2020-04-24T12:37:29.000Z",
+        "channelId": "UCwCzgKWyAykbtuHf8CNboow",
+        "title": "How to make a DIY face masks/ Home made face masks/ Uko wakora mask",
+        "description": "Komeza ugume mu rugo, wirinde urinde n'umuryango wawe. \nKugira ngo ukore mask igihe uyikeneye byihutirwa cyangwa utabasha kuyibona hafi wakwifashisha ubu buryo. #Facemasks #Stayhome #Staysafe\n\n\nThis is an entertainment channel combining #education and entertainment (edutainment) for peace building, Social cohesion , Social Inclusion, Unity and reconciliation , art and culture promotion as well as Humanity. \n\n\n\n\n\n\n\nFollow me on:\n\nTwitter: https://twitter.com/nahimanaclemen1?lang=en\nInstagragm: https://www.instagram.com/feruje_comedy/\nFacebook:  https://web.facebook.com/FerujeComedy/?modal=admin_todo_tour\nLinkedIn: https://www.linkedin.com/in/nahimana-clemence-81316267/\n\nSupport this channel through Subscription and Share.\n.\n.\n.\n.\n.\n.\n.\n.\n#Life #Heath #Insurance #Recovery #treatment #Comedy #Rwandancomedy #AfricanComedy #Classes #Credit #Software #Bamenyaseries #Papasava #Ngundaseries #NyaxoComedy #ClaptonComedy #GitwengeCover #AfrimaxTv #IsimbTv #Degree #Donate #Rehab #Electricity #Hosting #Conferencecall #Kansiime #AfricanHome .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OA3q3KpTe5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OA3q3KpTe5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OA3q3KpTe5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OA3q3KpTe5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OA3q3KpTe5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Feruje Comedy /Byose in 1Tv",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How to make a DIY face masks/ Home made face masks/ Uko wakora mask",
+          "description": "Komeza ugume mu rugo, wirinde urinde n'umuryango wawe. \nKugira ngo ukore mask igihe uyikeneye byihutirwa cyangwa utabasha kuyibona hafi wakwifashisha ubu buryo. #Facemasks #Stayhome #Staysafe\n\n\nThis is an entertainment channel combining #education and entertainment (edutainment) for peace building, Social cohesion , Social Inclusion, Unity and reconciliation , art and culture promotion as well as Humanity. \n\n\n\n\n\n\n\nFollow me on:\n\nTwitter: https://twitter.com/nahimanaclemen1?lang=en\nInstagragm: https://www.instagram.com/feruje_comedy/\nFacebook:  https://web.facebook.com/FerujeComedy/?modal=admin_todo_tour\nLinkedIn: https://www.linkedin.com/in/nahimana-clemence-81316267/\n\nSupport this channel through Subscription and Share.\n.\n.\n.\n.\n.\n.\n.\n.\n#Life #Heath #Insurance #Recovery #treatment #Comedy #Rwandancomedy #AfricanComedy #Classes #Credit #Software #Bamenyaseries #Papasava #Ngundaseries #NyaxoComedy #ClaptonComedy #GitwengeCover #AfrimaxTv #IsimbTv #Degree #Donate #Rehab #Electricity #Hosting #Conferencecall #Kansiime #AfricanHome ."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "172",
+        "likeCount": "13",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/acLRBlxBMoZEYGpXd1FMftVcCzI\"",
+      "id": "TUJr89LQao8",
+      "snippet": {
+        "publishedAt": "2020-04-26T15:57:56.000Z",
+        "channelId": "UCHTK-2W11Vh1V4uwofOfR4w",
+        "title": "Nuns make face masks to help halt pandemic spread",
+        "description": "(19 Apr 2020) LEAD IN : \r\nNuns in a remote Russian convent are making face masks to tackle the shortage of protective wear during the COVID-19 outbreak.\r\n\r\nSTORY-LINE:\r\nThis is a tightly run production line. \r\nEveryone knows their job and works as a team to produce around 100 face masks each day. \r\nThe workers are nuns who live at a remote Russian Orthodox monastery in Russia's Yaroslav region.\r\nThey're doing their bit in the effort to stop the spread of the COVID-19 virus. \r\nAbbess Erotiyida, Head of St. Nicholas-Solbinsky monastery explains that the monastery is at the heart of the local community. \r\n \"The idea is very simple - we need to help people. Because if people need them (face masks) and pharmacies cannot provide those means of self-protection, we are always here. The monastery always responds to peoples' needs.  Our monastery is focused on people,  we educate children, we have a college and a school here. Because we are in the remote place people gravitate towards our monastery, all villages come to use with any problems, that's why we are promptly reacting to all needs. The church is always next to people, that's what the history tells us. Our monastery too, during WWII was helping to make clothes for the army,\" she says.\r\nThe sisters are helped by local volunteers and students of the school based in the convent grounds. \r\nSister Tamara says that each of them is an expert in their role: \"We sew masks in the sewing workshop of the monastery. We are dividing the job. Mainly sisters are taking part in the process, but also pupils from the college are joining us. All perform the duty they are familiar with. Those who knows how to stitch, they are stitching, others are making patterns, some are pinning down and ironing. We are trying to involve as many people as possible who can help us. And when they have possibility everyone comes to help.\"\r\nMasks are made with four-layers of fabric that is breathable, the outside layer has a brighter colour to cheer the spirits in these difficult times. \r\nTo make the masks, the monastery has bought 4 km of fabric and are donating the finished masks for free to hospitals and other organisations where they are needed. \r\nThe work room is carefully disinfected several times a day explains Sister Suyzanna: \"Because we are making masks for the face that are needed to protect from viruses it is necessary to make them in good sanitary conditions. Therefore, before our shift, we are disinfecting our workplaces. We are disinfecting places every hour or an hour and a half. So to keep it clean during the day.\"\r\nCurrently, there are 40 sisters living in the monastery. It has a children's home, a college, a kindergarten and a nursery on site. \r\nThe Russian Orthodox church celebrates Easter this year on April 19 2020. \r\n Abbess Erotiyida says that a job done with a prayer brings love and recovery. \r\n\"In the monastery, every job is done with prayer. That's why it is blessed with prayer and love for the people. And I think it is the first step to recovery.\"\r\nFor most people, the new coronavirus causes mild or moderate symptoms, such as fever and cough that clear up in two to three weeks. For some, especially older adults and people with existing health problems, it can cause more severe illness, including pneumonia and death. The vast majority of people recover.\r\n\r\nFind out more about AP Archive: http://www.aparchive.com/HowWeWork \r\nTwitter: https://twitter.com/AP_Archive \r\nFacebook: https://www.facebook.com/APArchives \r\nGoogle+: https://plus.google.com/b/102011028589719587178/+APArchive​ \r\nTumblr: https://aparchives.tumblr.com/​​\r\nInstagram: https://www.instagram.com/APNews/\r\n\r\n\r\nYou can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/7117ddcec806470e89be932f3b1c4c81",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TUJr89LQao8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TUJr89LQao8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TUJr89LQao8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AP Archive",
+        "tags": [
+          "AP Archive",
+          "4265118",
+          "7117ddcec806470e89be932f3b1c4c81",
+          "HZ Russia Monastery Masks",
+          "Russia",
+          "Eastern Europe",
+          "Social affairs"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nuns make face masks to help halt pandemic spread",
+          "description": "(19 Apr 2020) LEAD IN : \r\nNuns in a remote Russian convent are making face masks to tackle the shortage of protective wear during the COVID-19 outbreak.\r\n\r\nSTORY-LINE:\r\nThis is a tightly run production line. \r\nEveryone knows their job and works as a team to produce around 100 face masks each day. \r\nThe workers are nuns who live at a remote Russian Orthodox monastery in Russia's Yaroslav region.\r\nThey're doing their bit in the effort to stop the spread of the COVID-19 virus. \r\nAbbess Erotiyida, Head of St. Nicholas-Solbinsky monastery explains that the monastery is at the heart of the local community. \r\n \"The idea is very simple - we need to help people. Because if people need them (face masks) and pharmacies cannot provide those means of self-protection, we are always here. The monastery always responds to peoples' needs.  Our monastery is focused on people,  we educate children, we have a college and a school here. Because we are in the remote place people gravitate towards our monastery, all villages come to use with any problems, that's why we are promptly reacting to all needs. The church is always next to people, that's what the history tells us. Our monastery too, during WWII was helping to make clothes for the army,\" she says.\r\nThe sisters are helped by local volunteers and students of the school based in the convent grounds. \r\nSister Tamara says that each of them is an expert in their role: \"We sew masks in the sewing workshop of the monastery. We are dividing the job. Mainly sisters are taking part in the process, but also pupils from the college are joining us. All perform the duty they are familiar with. Those who knows how to stitch, they are stitching, others are making patterns, some are pinning down and ironing. We are trying to involve as many people as possible who can help us. And when they have possibility everyone comes to help.\"\r\nMasks are made with four-layers of fabric that is breathable, the outside layer has a brighter colour to cheer the spirits in these difficult times. \r\nTo make the masks, the monastery has bought 4 km of fabric and are donating the finished masks for free to hospitals and other organisations where they are needed. \r\nThe work room is carefully disinfected several times a day explains Sister Suyzanna: \"Because we are making masks for the face that are needed to protect from viruses it is necessary to make them in good sanitary conditions. Therefore, before our shift, we are disinfecting our workplaces. We are disinfecting places every hour or an hour and a half. So to keep it clean during the day.\"\r\nCurrently, there are 40 sisters living in the monastery. It has a children's home, a college, a kindergarten and a nursery on site. \r\nThe Russian Orthodox church celebrates Easter this year on April 19 2020. \r\n Abbess Erotiyida says that a job done with a prayer brings love and recovery. \r\n\"In the monastery, every job is done with prayer. That's why it is blessed with prayer and love for the people. And I think it is the first step to recovery.\"\r\nFor most people, the new coronavirus causes mild or moderate symptoms, such as fever and cough that clear up in two to three weeks. For some, especially older adults and people with existing health problems, it can cause more severe illness, including pneumonia and death. The vast majority of people recover.\r\n\r\nFind out more about AP Archive: http://www.aparchive.com/HowWeWork \r\nTwitter: https://twitter.com/AP_Archive \r\nFacebook: https://www.facebook.com/APArchives \r\nGoogle+: https://plus.google.com/b/102011028589719587178/+APArchive​ \r\nTumblr: https://aparchives.tumblr.com/​​\r\nInstagram: https://www.instagram.com/APNews/\r\n\r\n\r\nYou can license this story through AP Archive: http://www.aparchive.com/metadata/youtube/7117ddcec806470e89be932f3b1c4c81"
+        }
+      },
+      "statistics": {
+        "viewCount": "189",
+        "likeCount": "4",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/CUECix4p1kYaYF8FobAtOk7qUtk\"",
+      "id": "LFJYE1pEyYs",
+      "snippet": {
+        "publishedAt": "2020-04-25T16:05:04.000Z",
+        "channelId": "UCGO9wZHHFm7y8gc7TnkHu8Q",
+        "title": "How To Make Face Mask Without Sewing Machine| | Fabric Face Mask",
+        "description": "This short video simply shows how to make face mask without sewing machine. Please like share and subscribe to support my channel and don't forget to on the notification bell for more videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LFJYE1pEyYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LFJYE1pEyYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LFJYE1pEyYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LFJYE1pEyYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LFJYE1pEyYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akorede Adenike",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How To Make Face Mask Without Sewing Machine| | Fabric Face Mask",
+          "description": "This short video simply shows how to make face mask without sewing machine. Please like share and subscribe to support my channel and don't forget to on the notification bell for more videos."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "162",
+        "likeCount": "15",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/sOKdErRYlrZGjkC8XOGA7w40X28\"",
+      "id": "DH3AEbaIEDY",
+      "snippet": {
+        "publishedAt": "2020-04-20T03:46:34.000Z",
+        "channelId": "UCXvCMovBvdPfbfAAM8DZiNg",
+        "title": "Dene language - how to make face mask",
+        "description": "How to  make face masks out of a sweat shirts (hoodie) and 2 t-shirts.  Explained in Dene.\n\ncopy and paste the URL below and print the pattern\n\nfile:///Users/Diane/Desktop/Diane%20Makes%20Youtube%20Free%20Face%20Mask%20Pattern.html",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DH3AEbaIEDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DH3AEbaIEDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DH3AEbaIEDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DH3AEbaIEDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Diane Makes",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dene language - how to make face mask",
+          "description": "How to  make face masks out of a sweat shirts (hoodie) and 2 t-shirts.  Explained in Dene.\n\ncopy and paste the URL below and print the pattern\n\nfile:///Users/Diane/Desktop/Diane%20Makes%20Youtube%20Free%20Face%20Mask%20Pattern.html"
+        }
+      },
+      "statistics": {
+        "viewCount": "289",
+        "likeCount": "4",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/RKSXSatq_tk_-XoS-Y3Md7WBIJk\"",
+      "id": "8VL3rzRaFTA",
+      "snippet": {
+        "publishedAt": "2020-04-25T22:01:47.000Z",
+        "channelId": "UCA346_LJj4_Ni0T0NgPRnhA",
+        "title": "How to make face mask at home easy way/ make face mask from cloth bag /Face mask Sewing tutorial",
+        "description": "#makefacemask, #fabricfacemask, #nomachine\nHow to make a Face Mask at Home\n#maskmaking #diymask #facemask\n\nIf you like this video. Please Like, Share and Subscribe.\nAnd if you have any suggestions, please comment below",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8VL3rzRaFTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8VL3rzRaFTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VL3rzRaFTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8VL3rzRaFTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8VL3rzRaFTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "iCrafts Tips",
+        "tags": [
+          "Diy",
+          "Mask",
+          "Tutorial",
+          "Face mask",
+          "How to",
+          "Coronavirus",
+          "Sewing"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "fa-AF",
+        "localized": {
+          "title": "How to make face mask at home easy way/ make face mask from cloth bag /Face mask Sewing tutorial",
+          "description": "#makefacemask, #fabricfacemask, #nomachine\nHow to make a Face Mask at Home\n#maskmaking #diymask #facemask\n\nIf you like this video. Please Like, Share and Subscribe.\nAnd if you have any suggestions, please comment below"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "106",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "localizations": {
+        "fa-AF": {
+          "title": "How to make face mask at home easy way/ make face mask from cloth bag /Face mask Sewing tutorial",
+          "description": "#makefacemask, #fabricfacemask, #nomachine\nHow to make a Face Mask at Home\n#maskmaking #diymask #facemask\n\nIf you like this video. Please Like, Share and Subscribe.\nAnd if you have any suggestions, please comment below"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/e7X0t3QLZaMWXRfh_7F5lvs5b1U\"",
+      "id": "7AvCr5QdJd0",
+      "snippet": {
+        "publishedAt": "2020-04-26T04:30:00.000Z",
+        "channelId": "UCAzFwQThXUJub9TNZxLfD-A",
+        "title": "DIY : How to make face mask without sewing machine",
+        "description": "Also, watch how to make a mask from fabric carry bag here https://youtu.be/OHc05Ewn0rA\nAnd watch How To Make Face Mask At Home | DIY Face Mask No Sewing Machine here\nhttps://youtu.be/WaXveqWHmlU\n\nLearn How To Make Face Mask at home | DIY Easy Face Mask Pattern.\n\nYou’ll need the following materials to sew a face mask with a cloth at home.\n1.Fabric.\n2.Elastic or Rubberband.\n2.Sewing materials: These include scissors, needle, and thread.\n\nSubscribe To Our Channel:- http://www.youtube.com/shreyafashion/UCAzFwQThXUJub9TNZxLfD-A?sub_confirmation=1\n\nFollow Us! \nYoutube: https://www.youtube.com/c/shreyafashion\nFacebook: https://www.facebook.com/shreyafashionyt\nTwitter: https://twitter.com/shreyafashionyt\nInstagram: https://www.instagram.com/shreyafashionyt\nTumblr: https://www.tumblr.com/blog/shreyafashion\n\nIf you have any problem with the content on this channel then email me on \"shreyafashionyt@gmail.com\" with the subject \"Issue with Content\", so that we can get in contact with you and further discuss the issue. let us keep each other happy. 😄",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7AvCr5QdJd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7AvCr5QdJd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7AvCr5QdJd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7AvCr5QdJd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7AvCr5QdJd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shreya Fashion",
+        "tags": [
+          "shreyafashion",
+          "face mask pattern",
+          "easy sew face mask",
+          "face mask no sewing machine",
+          "how to sew a face mask",
+          "face mask sewing tutorial",
+          "how to make face mask",
+          "make face mask fabric",
+          "making face mask at home",
+          "homemade face mask",
+          "diy cloth face mask",
+          "fabric face mask diy",
+          "कपडे का मास्क कैसे बनाये",
+          "bina silai machine ka mask banana",
+          "हाथ से फेस मास्क बनाना",
+          "बिना सिलाई मशीन के फेस मास्क बनाये"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DIY : How to make face mask without sewing machine",
+          "description": "Also, watch how to make a mask from fabric carry bag here https://youtu.be/OHc05Ewn0rA\nAnd watch How To Make Face Mask At Home | DIY Face Mask No Sewing Machine here\nhttps://youtu.be/WaXveqWHmlU\n\nLearn How To Make Face Mask at home | DIY Easy Face Mask Pattern.\n\nYou’ll need the following materials to sew a face mask with a cloth at home.\n1.Fabric.\n2.Elastic or Rubberband.\n2.Sewing materials: These include scissors, needle, and thread.\n\nSubscribe To Our Channel:- http://www.youtube.com/shreyafashion/UCAzFwQThXUJub9TNZxLfD-A?sub_confirmation=1\n\nFollow Us! \nYoutube: https://www.youtube.com/c/shreyafashion\nFacebook: https://www.facebook.com/shreyafashionyt\nTwitter: https://twitter.com/shreyafashionyt\nInstagram: https://www.instagram.com/shreyafashionyt\nTumblr: https://www.tumblr.com/blog/shreyafashion\n\nIf you have any problem with the content on this channel then email me on \"shreyafashionyt@gmail.com\" with the subject \"Issue with Content\", so that we can get in contact with you and further discuss the issue. let us keep each other happy. 😄"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "statistics": {
+        "viewCount": "100",
+        "likeCount": "5",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/iF2NHKYnFoBYt1mvGDMbhm6Xuts\"",
+      "id": "jLdwexZ44xw",
+      "snippet": {
+        "publishedAt": "2020-04-26T17:23:08.000Z",
+        "channelId": "UCwU99NIs_kYaREuxgdjKKYQ",
+        "title": "Face Mask Sewing Tutorial | DIY Cloth Face Mask | How to make Face Mask with Filter Pocket",
+        "description": "Handmade Easy mask making tutorial | DIY mask sewing ideas | How to make mask at home | Homemade crafts\n\nHello dear friends!! In this face mask sewing video tutorial i will show you how to make a mask using cloth step by step.\n\n#ClothFaceMask  #HandmadeFaceMask  #DIYEasyMask\n\n▬▬▬▬▬▬▬  Music ♪♫ ▬▬▬▬▬▬▬   \n\n1. Song: Niwel - Bad Love (Instrumental) (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/-aBAojWIRac\n\n2. Song: LiQWYD - Young Love (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/V_4xcw9b3Xc\n\n\n▬▬▬▬▬▬▬▬ ♪♫ ▬▬▬▬▬▬▬▬▬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jLdwexZ44xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jLdwexZ44xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jLdwexZ44xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jLdwexZ44xw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jLdwexZ44xw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MR. CREATOR",
+        "tags": [
+          "handmade cloth mask",
+          "diy face mask making",
+          "homemade cloth mask",
+          "mask making idea",
+          "how to make a face mask easy",
+          "easy mask making tutorial",
+          "Face Mask Sewing Tutorial",
+          "simple 3d face mask",
+          "mask making with cloth"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Face Mask Sewing Tutorial | DIY Cloth Face Mask | How to make Face Mask with Filter Pocket",
+          "description": "Handmade Easy mask making tutorial | DIY mask sewing ideas | How to make mask at home | Homemade crafts\n\nHello dear friends!! In this face mask sewing video tutorial i will show you how to make a mask using cloth step by step.\n\n#ClothFaceMask  #HandmadeFaceMask  #DIYEasyMask\n\n▬▬▬▬▬▬▬  Music ♪♫ ▬▬▬▬▬▬▬   \n\n1. Song: Niwel - Bad Love (Instrumental) (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/-aBAojWIRac\n\n2. Song: LiQWYD - Young Love (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/V_4xcw9b3Xc\n\n\n▬▬▬▬▬▬▬▬ ♪♫ ▬▬▬▬▬▬▬▬▬"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "statistics": {
+        "viewCount": "106",
+        "likeCount": "5",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/03glg",
+          "/m/019_rr",
+          "/m/03glg"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "localizations": {
+        "en": {
+          "title": "Face Mask Sewing Tutorial | DIY Cloth Face Mask | How to make Face Mask with Filter Pocket",
+          "description": "Handmade Easy mask making tutorial | DIY mask sewing ideas | How to make mask at home | Homemade crafts\n\nHello dear friends!! In this face mask sewing video tutorial i will show you how to make a mask using cloth step by step.\n\n#ClothFaceMask  #HandmadeFaceMask  #DIYEasyMask\n\n▬▬▬▬▬▬▬  Music ♪♫ ▬▬▬▬▬▬▬   \n\n1. Song: Niwel - Bad Love (Instrumental) (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/-aBAojWIRac\n\n2. Song: LiQWYD - Young Love (Vlog No Copyright Music)\nMusic provided by Vlog No Copyright Music.\nVideo Link: https://youtu.be/V_4xcw9b3Xc\n\n\n▬▬▬▬▬▬▬▬ ♪♫ ▬▬▬▬▬▬▬▬▬"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/FFcLZ3r7m9HPaytb1rJjymtKOxc\"",
+      "id": "MQZAbz0iu2Q",
+      "snippet": {
+        "publishedAt": "2020-04-25T20:36:36.000Z",
+        "channelId": "UCcNnf5Cwsivn8pQ5N7BmgUg",
+        "title": "How To Make Mask At Home - How to Make a Face Mask at Home Easy - How To Make  Mask By Tissue Paper",
+        "description": "How To Make Mask At Home - How to Make a Face Mask at Home Easy - How To Make  Mask By Tissue Paper.\n\nMore Videos :- \n 1 -Super Jet Paper Airplane - How To Make Fighter Jet Paper Airplane - Paper Airplane - Origami Fighter Jet :-https://youtu.be/Llajz3HQJsk\n 2 -Star Wars Paper Airplanes - How To Make A Star Wars Fighter Paper Airplane -Paper Plane -star wars paper plane :- https://youtu.be/707YGrpl53w\n3. How To Make A Paper Battle Axe - Easy origami - Paper Axe - Paper Crafts -https://youtu.be/nqhNJ0vFUvw\n4 - How to Make Air Cooler at Home Using Plastic Bottle | Diy Cooling Fan - https://youtu.be/Of9fFXG6WAA\n5 - How to Make A4 Paper Flying Plane.How To Make A Simple Kite.How to Make Small Kite Easy - https://youtu.be/eDgoOSBTbf4\n6- How To Make Mask At Home | Mask Making From Cloth bag | DIY Mask | Handmade Mask -https://www.youtube.com/watch?v=N4boLMM4paQ\n7 -How to Make a Face Mask at Home Easy | DIY Face Mask No Sewing Machine - https://www.youtube.com/watch?v=IlTTiQnSq_4\n 8 - How to make EASY FACE MASK in 1 MINUTE - https://www.youtube.com/watch?v=lOe_8z8k01U\n\nhow to make a face mask without sewing machine,how to make a face mask, NO SEWING,one minute face mask,how to make mask ,how to make face mask at home by tissue paper,\nface mask,how to make face masks at home,how to make face masks,homemade face mask for acne,making a mask at home,make masks at home,मास्क कैसे बनाये,как сделать маску,كيفية صنع القناع,كيفية صنع قناع في المنزل,घर पर मास्क कैसे बनाये,how to make a mask out of a shirt.how to make a mask out of a tissue paper.\n#mask #facemask #tissuepapermask #howtomake  #mouthmask\n\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n\nMy Social media links :- \n\nFacebook :-  https://www.facebook.com/diycoolhacks/\n\nTwitter     :- https://twitter.com/diycoolhacks\n\nInstagram  :- https://www.instagram.com/diy.cool.hacks/?hl=en\nBlog             :- https://www.blogger.com/blogger.g?blogID=5797888730536712369#draftposts\n\nSubscribe my channel :- https://www.youtube.com/channel/UCcNnf5Cwsivn8pQ5N7BmgUg\n\n\n\nThanks For Watching  .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQZAbz0iu2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQZAbz0iu2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQZAbz0iu2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MQZAbz0iu2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MQZAbz0iu2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DiyCoolHacks",
+        "tags": [
+          "diycoolhacks",
+          "diy",
+          "how to make a face mask at home easy",
+          "how to make mask at home easy",
+          "mask making",
+          "handmade mask making",
+          "handmade mask",
+          "tissue paper face mask",
+          "diy face mask",
+          "face mask",
+          "how to make a face mask",
+          "one minute face mask",
+          "how to make mask at home",
+          "how to make mask by tissue paper",
+          "diy mask",
+          "making a mask at home",
+          "make masks at home",
+          "how to make mask",
+          "mask",
+          "easy face mask",
+          "मुखौटा",
+          "tissue paper mask",
+          "safest face mask",
+          "how to make a mask",
+          "how to make face mask"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "How To Make Mask At Home - How to Make a Face Mask at Home Easy - How To Make  Mask By Tissue Paper",
+          "description": "How To Make Mask At Home - How to Make a Face Mask at Home Easy - How To Make  Mask By Tissue Paper.\n\nMore Videos :- \n 1 -Super Jet Paper Airplane - How To Make Fighter Jet Paper Airplane - Paper Airplane - Origami Fighter Jet :-https://youtu.be/Llajz3HQJsk\n 2 -Star Wars Paper Airplanes - How To Make A Star Wars Fighter Paper Airplane -Paper Plane -star wars paper plane :- https://youtu.be/707YGrpl53w\n3. How To Make A Paper Battle Axe - Easy origami - Paper Axe - Paper Crafts -https://youtu.be/nqhNJ0vFUvw\n4 - How to Make Air Cooler at Home Using Plastic Bottle | Diy Cooling Fan - https://youtu.be/Of9fFXG6WAA\n5 - How to Make A4 Paper Flying Plane.How To Make A Simple Kite.How to Make Small Kite Easy - https://youtu.be/eDgoOSBTbf4\n6- How To Make Mask At Home | Mask Making From Cloth bag | DIY Mask | Handmade Mask -https://www.youtube.com/watch?v=N4boLMM4paQ\n7 -How to Make a Face Mask at Home Easy | DIY Face Mask No Sewing Machine - https://www.youtube.com/watch?v=IlTTiQnSq_4\n 8 - How to make EASY FACE MASK in 1 MINUTE - https://www.youtube.com/watch?v=lOe_8z8k01U\n\nhow to make a face mask without sewing machine,how to make a face mask, NO SEWING,one minute face mask,how to make mask ,how to make face mask at home by tissue paper,\nface mask,how to make face masks at home,how to make face masks,homemade face mask for acne,making a mask at home,make masks at home,मास्क कैसे बनाये,как сделать маску,كيفية صنع القناع,كيفية صنع قناع في المنزل,घर पर मास्क कैसे बनाये,how to make a mask out of a shirt.how to make a mask out of a tissue paper.\n#mask #facemask #tissuepapermask #howtomake  #mouthmask\n\n\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n\n\nMy Social media links :- \n\nFacebook :-  https://www.facebook.com/diycoolhacks/\n\nTwitter     :- https://twitter.com/diycoolhacks\n\nInstagram  :- https://www.instagram.com/diy.cool.hacks/?hl=en\nBlog             :- https://www.blogger.com/blogger.g?blogID=5797888730536712369#draftposts\n\nSubscribe my channel :- https://www.youtube.com/channel/UCcNnf5Cwsivn8pQ5N7BmgUg\n\n\n\nThanks For Watching  ."
+        }
+      },
+      "statistics": {
+        "viewCount": "90",
+        "likeCount": "3",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-toZv4H5I15dqfz7BXuXLuiYHD0\"",
+      "id": "69cTjem9ETM",
+      "snippet": {
+        "publishedAt": "2020-04-24T07:34:35.000Z",
+        "channelId": "UC9oVRXjss-fZ-WZoOXwrTlQ",
+        "title": "HOW TO MAKE FACE MASK WITH PLASTIC EYES COVER | EASY TO MAKE | WASHABLE",
+        "description": "Hi Everyone! Another DIY PROJECT Face Protection using plastic book cover. Easy to do with some things at home. \nTHANKS FOR WATCHING\nMUSIC ~ DIZZY\nhttp://soundclound.com/joakimkarud\nEDITING USED: FilmoraGo\nFIND ME ON: FB ~ Anna Novales\nIG ~ AnnalusciousThreadPH\n#FacialGear\n#DIYEyesProtection\n#FacialMask\n#EyesCover\n#FaceProtection\n#DustGermsProtective",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69cTjem9ETM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69cTjem9ETM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69cTjem9ETM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/69cTjem9ETM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/69cTjem9ETM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "anna novales",
+        "tags": [
+          "DIY eyes protection",
+          "germs protection",
+          "dust protection",
+          "spit protection",
+          "Facial eyes gear mask",
+          "Face mask",
+          "DIY facial mask",
+          "Eyes gear DIY",
+          "Face gear",
+          "Easy to make"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HOW TO MAKE FACE MASK WITH PLASTIC EYES COVER | EASY TO MAKE | WASHABLE",
+          "description": "Hi Everyone! Another DIY PROJECT Face Protection using plastic book cover. Easy to do with some things at home. \nTHANKS FOR WATCHING\nMUSIC ~ DIZZY\nhttp://soundclound.com/joakimkarud\nEDITING USED: FilmoraGo\nFIND ME ON: FB ~ Anna Novales\nIG ~ AnnalusciousThreadPH\n#FacialGear\n#DIYEyesProtection\n#FacialMask\n#EyesCover\n#FaceProtection\n#DustGermsProtective"
+        }
+      },
+      "statistics": {
+        "viewCount": "63",
+        "likeCount": "20",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      },
+      "topicDetails": {
+        "relevantTopicIds": [
+          "/m/019_rr",
+          "/m/019_rr"
+        ],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      }
+    }
+  ]
+}
